@@ -1,8 +1,8 @@
-##Lichess TOP 10 
+Lichess TOP 10 
 
-###version 0.8
+version 0.8
 
-- ###Blibiotecas
+- Blibiotecas:
 - berserk.py
 - pymsql.py
 
